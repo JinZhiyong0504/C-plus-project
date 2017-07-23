@@ -1,0 +1,185 @@
+﻿  stdafx.cpp
+  PRD.cpp
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(27): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(39): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(121): warning C4244: “初始化”: 从“ULONGLONG”转换到“unsigned int”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(123): warning C4244: “参数”: 从“ULONGLONG”转换到“UINT”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(214): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(215): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(236): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(237): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(238): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(239): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(240): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(241): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(242): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(243): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(244): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(177): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(213): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(218): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(223): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\prd.cpp(231): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+  MainFrm.cpp
+  IPR_OPT.cpp
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(62): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(63): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(64): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(70): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(72): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(73): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(74): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(75): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(80): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(81): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(82): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(83): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(84): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\ipr_opt.cpp(85): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  IPRView.cpp
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(238): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(1921): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(1923): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(2063): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(2066): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(2199): warning C4305: “=”: 从“double”到“float”截断
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(2200): warning C4305: “=”: 从“double”到“float”截断
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(2201): warning C4305: “=”: 从“double”到“float”截断
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(2202): warning C4305: “=”: 从“double”到“float”截断
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(2215): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(2218): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(2356): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(2359): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(819): warning C4101: “hdc”: 未引用的局部变量
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(818): warning C4101: “ps”: 未引用的局部变量
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(822): warning C4101: “date_x”: 未引用的局部变量
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(817): warning C4101: “wmEvent”: 未引用的局部变量
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(821): warning C4101: “p”: 未引用的局部变量
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(823): warning C4101: “f”: 未引用的局部变量
+g:\project-software\ipr_pro_ess_formal\ipr\iprview.cpp(817): warning C4101: “wmId”: 未引用的局部变量
+  IPRDoc.cpp
+  IPR.cpp
+  C_IPR_SHOW.cpp
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(115): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(116): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(117): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: 参见“_swprintf”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(118): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(120): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(121): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(122): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: 参见“_swprintf”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(123): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(126): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(127): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(128): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(133): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(134): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(135): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: 参见“_swprintf”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(136): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(138): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(139): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(140): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: 参见“_swprintf”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(141): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(144): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(145): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(146): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: 参见“_swprintf”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(147): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(150): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(151): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(152): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(156): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(157): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(158): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: 参见“_swprintf”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(159): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(161): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(162): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(163): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: 参见“_swprintf”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(164): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(167): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(168): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(169): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: 参见“_swprintf”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(170): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(173): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(174): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_show.cpp(175): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+  C_IPR_INF_SHOW.cpp
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_inf_show.cpp(62): warning C4305: “=”: 从“double”到“float”截断
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_inf_show.cpp(64): warning C4305: “=”: 从“double”到“float”截断
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_inf_show.cpp(65): warning C4305: “=”: 从“double”到“float”截断
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_inf_show.cpp(74): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_inf_show.cpp(75): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_inf_show.cpp(76): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_inf_show.cpp(77): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_inf_show.cpp(56): warning C4101: “CharIPR”: 未引用的局部变量
+g:\project-software\ipr_pro_ess_formal\ipr\c_ipr_inf_show.cpp(57): warning C4101: “IPR_inf”: 未引用的局部变量
+  C_CDialog_Stage.cpp
+  C_CDialog_Scale.cpp
+  C_CDialog_Fluid_Property.cpp
+g:\project-software\ipr_pro_ess_formal\ipr\c_cdialog_fluid_property.cpp(34): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_cdialog_fluid_property.cpp(36): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_cdialog_fluid_property.cpp(38): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_cdialog_fluid_property.cpp(40): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_cdialog_fluid_property.cpp(42): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_cdialog_fluid_property.cpp(96): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_cdialog_fluid_property.cpp(97): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_cdialog_fluid_property.cpp(98): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_cdialog_fluid_property.cpp(99): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_cdialog_fluid_property.cpp(100): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_cdialog_fluid_property.cpp(102): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_cdialog_fluid_property.cpp(103): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_cdialog_fluid_property.cpp(104): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_cdialog_fluid_property.cpp(105): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_cdialog_fluid_property.cpp(67): warning C4101: “Solut_GOR_PRET_str”: 未引用的局部变量
+  C_CDdialog_Reservoir.cpp
+g:\project-software\ipr_pro_ess_formal\ipr\c_cddialog_reservoir.cpp(84): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\project-software\ipr_pro_ess_formal\ipr\c_cddialog_reservoir.cpp(85): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  IPR.vcxproj -> G:\Project-Software\IPR_PRO_ESS_formal\Debug\IPR.exe

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\IPR.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\IPRDoc.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\IPR.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="ClassDiagram3.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IPR.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IPRDoc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IPRView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C_CDialog_Fluid_Property.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C_CDdialog_Reservoir.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C_CDialog_Scale.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C_CDialog_Stage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IPR_OPT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PRD.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Pegrpapi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C_IPR_SHOW.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C_IPR_INF_SHOW.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="IPR.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IPRDoc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IPRView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C_CDialog_Fluid_Property.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C_CDdialog_Reservoir.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C_CDialog_Scale.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C_CDialog_Stage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IPR_OPT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PRD.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C_IPR_SHOW.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C_IPR_INF_SHOW.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="IPR.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\lib\PEGRP32E.lib" />
+  </ItemGroup>
+</Project>
